@@ -52,6 +52,22 @@ public class Principal {
 		int opc = 0;
 		do {
 
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			System.out.println("1. Introducir nuevo cliente.");
 			System.out.println("2. Introducir nueva factura.");
 			System.out.println("3. Buscar cliente.");

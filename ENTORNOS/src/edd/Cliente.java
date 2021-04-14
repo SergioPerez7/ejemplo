@@ -8,9 +8,12 @@ import java.util.Scanner;
 
 public class Cliente {
 
-	/*Nombre*/ String nombre;
+	String nombre;
 	String id;
 
+	/*
+	 blablabla
+	 */
 	Cliente() {
 
 		this.nombre = "";
